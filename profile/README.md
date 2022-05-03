@@ -41,10 +41,10 @@ The repositories starts with a abbreviation which defines what is inside of the 
 | [R-Architectural-Construction](https://github.com/town-country/R-Architectural-Construction) | Architectural Construction Rules |
 | [E-Building](https://github.com/town-country/E-Building) | Local Environment for Building Context |
 | [T-Infrastrucure](https://github.com/town-country/T-Infrastructure) | Template for Infrastructure Layer |
+| [T-SDK-Infrastructure]() | Template for SDK to communicate with the infrastructure layer |
 | [T-Domain](https://github.com/town-country/T-Domain) | Template for Domain Layer |
 | [T-Application](https://github.com/town-country/T-Application) | Template for Application Layer |
 | [T-Environment](https://github.com/town-country/T-Application) | Template for local Environment |
-| [T-Model](https://github.com/town-country/T-Model) | Template for Model |
 | [T-Frontend-React](https://github.com/town-country/T-Frontend-React) | Template for React Frontend |
 
 
