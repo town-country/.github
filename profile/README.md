@@ -34,7 +34,7 @@ The repositories starts with a abbreviation which defines what is inside of the 
 | [SDK-Revit](https://github.com/town-country/SDK-Revit) | SDK to communicate with Revit |
 | [S-MySQL](https://github.com/town-country/S-MySQL) | MySQL Database |
 | [S-Kafka](https://github.com/town-country/S-Kafka) | Apache Kafka |
-| [S-Kafka-Connector](https://github.com/town-country/S-Kafka-Connector) | Connection to Apache Kafka |
+| [L-Kafka-Connector](https://github.com/town-country/L-Kafka-Connector) | Library that allows to connect to Apache Kafka, and handle subscriptions via attributes |
 | [S-Kie-Server](https://github.com/town-country/S-Kie-Server) | KIE Server |
 | [S-Zookeeper](https://github.com/town-country/S-Zookeeper) | Apache Kafka Zookeeper |
 | [S-OP-Connect-Api](https://github.com/town-country/S-OP-Connect-Api) | One Password Connector |
