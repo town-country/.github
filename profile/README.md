@@ -30,6 +30,7 @@ The repositories starts with a abbreviation which defines what is inside of the 
 | [F-Kafka-UI](https://github.com/town-country/F-Kafka-UI) | User Interface for Apache Kafka |
 | [F-Tecronomicon](https://github.com/town-country/F-Tecronomicon) | User Interface for Development Guidelines |
 | [A-Building-Planner](https://github.com/town-country/A-Building-Planner) | Application Layer from the Building Context |
+| [I-Building](https://github.com/town-country/I-Building) | Infrastructure layer for the Building Context |
 | [SDK-Building](https://github.com/town-country/SDK-Building) | SDK to communicate with the Building Context |
 | [SDK-Revit](https://github.com/town-country/SDK-Revit) | SDK to communicate with Revit |
 | [S-MySQL](https://github.com/town-country/S-MySQL) | MySQL Database |
