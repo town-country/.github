@@ -38,6 +38,7 @@ The repositories starts with a abbreviation which defines what is inside of the 
 | [S-Kie-Server](https://github.com/town-country/S-Kie-Server) | KIE Server |
 | [S-Zookeeper](https://github.com/town-country/S-Zookeeper) | Apache Kafka Zookeeper |
 | [S-OP-Connect-Api](https://github.com/town-country/S-OP-Connect-Api) | One Password Connector |
+| [SDK-Infrastructure-Building](https://github.com/town-country/SDK-Infrastructure-Building) | SDk for the infrastructure layer of the building domain |
 | [R-Architectural-Construction](https://github.com/town-country/R-Architectural-Construction) | Architectural Construction Rules |
 | [E-Building](https://github.com/town-country/E-Building) | Local Environment for Building Context |
 | [T-Infrastrucure](https://github.com/town-country/T-Infrastructure) | Template for Infrastructure Layer |
