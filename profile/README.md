@@ -44,7 +44,7 @@ The repositories starts with a abbreviation which defines what is inside of the 
 | [E-Building](https://github.com/town-country/E-Building) | Local Environment for Building Context |
 | [T-Infrastrucure](https://github.com/town-country/T-Infrastructure) | Template for Infrastructure Layer |
 | [T-SDK-Domain](https://github.com/town-country/T-SDK-Domain) | Template for SDK to communicate with the domain layer  |
-| [T-SDK-Infrastructure](https://github.com/town-country/T-SDK-Infrastrucure) | Template for SDK to communicate with the infrastructure layer |
+| [T-SDK-Infrastructure](https://github.com/town-country/T-SDK-Infrastructure) | Template for SDK to communicate with the infrastructure layer |
 | [T-Domain](https://github.com/town-country/T-Domain) | Template for Domain Layer |
 | [T-Application](https://github.com/town-country/T-Application) | Template for Application Layer |
 | [T-Environment](https://github.com/town-country/T-Application) | Template for local Environment |
